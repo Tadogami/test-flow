@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "test-flow-ea587": {
+      "hosting": {
+        "demo-flow": [
+          "test-flow-ea587"
+        ]
+      }
+    }
+  }
+}
